@@ -4,4 +4,6 @@
     - pydf
     - tree
     - open-vm-tools
+    - python-pip
+    - libmysqlclient-dev    
   tags: installation
